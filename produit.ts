@@ -1,3 +1,4 @@
-let nom : string ;
-nom ="fatima";
+let nom : number ;
+nom =10;
 console.log(nom);
+
